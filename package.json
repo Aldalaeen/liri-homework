@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chehlsee/liri-homework.git"
+    "url": "git+https://github.com/Aldalaeen/liri-homework.git"
   },
   "keywords": [
     "liri",
     "nodejs",
     "bot"
   ],
-  "author": "Chehlsee",
+  "author": "Aldlaeen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chehlsee/liri-homework/issues"
+    "url": "https://github.com/Aldlaeen/liri-homework/issues"
   },
-  "homepage": "https://github.com/chehlsee/liri-homework#readme",
+  "homepage": "https://github.com/Aldalaeen/liri-homework/blob/master/README.md",
   "dependencies": {
     "bandsintown": "^1.0.1",
     "dotenv": "^6.2.0",
